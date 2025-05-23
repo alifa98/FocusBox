@@ -1,7 +1,7 @@
 
 # 📚 Focus Box: A Transparent Overlay for Focused Reading
 
-**Focus Box** is a simple, powerful overlay tool that helps you focus while reading long texts on tablets or smartphones. It creates a customizable transparent box that floats above all apps—ideal for reading EPUBs, PDFs, or long web articles without distractions.
+**Focus Box** is a simple, powerful overlay tool that helps you focus while reading long texts on tablets or smartphones. It creates a customizable transparent box that floats above all apps، ideal for reading EPUBs, PDFs, or long web articles without distractions.
 
 Originally developed for my personal use while reading novels on a Samsung tablet, **Focus Box** is now open source and available for anyone looking to improve their reading experience.
 
