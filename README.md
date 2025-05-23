@@ -43,8 +43,6 @@ Originally developed for my personal use while reading novels on a Samsung table
 
 ### Installation
 
-*Instructions will vary based on your platform. If it's Android:*
-
 1. Download the latest APK from the [Releases](https://github.com/alifa98/FocusBox/releases) page.
 2. Install the APK on your tablet or phone.
 3. Grant any necessary overlay permissions when prompted.
