@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
                 0xFFFFFF00, // yellow
                 0xFFFFFFFF  // white
         };
-        final String[] colorNames = {"Blue", "Red", "Green", "Blue", "Yellow", "White"};
+        final String[] colorNames = {"Sky Blue", "Red", "Green", "Blue", "Yellow", "White"};
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Choose Overlay Color");
